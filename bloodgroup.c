@@ -5,11 +5,11 @@ void main()
   int i;
   do
   {
-    printf("YOLOOOOOOOOOOOOOOOOOOO");
+    printf("YOLO");
     scanf("%s", Name);
     do
     {
-      printf("What is your group? ");
+      printf("What is your group?");
       scanf("%s", G);
 
       if (strcmp(G, "A") !=0  &&
